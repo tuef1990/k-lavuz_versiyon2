@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverrides
+._*
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+
+# Geçici patch dosyaları
+_patch_*.py
+_test_*.py
+_write_*.py
+
+# Jupyter
+.ipynb_checkpoints/
